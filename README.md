@@ -1,5 +1,5 @@
-### Hi there 👋
-# 💫 About Me:
+## Hi there 👋
+### 💫 About Me:
 💬 I'm interested in Coding, Travelling and Reading<br>📫 Reach me at email :)<br>🔥 Hit me up for talks and discussion on Frontend Web dev and App dev<br>Currently a visiting  intern at TVS Motor Company<br>Currently Learning Web Web development<br>🧠 Currently in my final year at National Institute of Technology, Rourkela, pursuing Computer Science <br>
 
 
